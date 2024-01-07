@@ -15,7 +15,7 @@ Certifique-se de ter o SDK do .NET 8.0 instalado. Você pode baixá-lo em [dotne
     
 ## Resposta
 
-A aplicação estará disponível em http://localhost:5000 por padrão.
+A aplicação estará disponível em http://localhost:5050 por padrão.
 
 Acesse a API no navegador ou use uma ferramenta como curl ou Postman para fazer uma solicitação GET:
 
